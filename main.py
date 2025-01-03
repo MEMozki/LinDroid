@@ -1,0 +1,1 @@
+from colorama import Fore,Style;import os,getpass;print(f"\033[38;5;208mLin{Fore.RESET}-{Fore.WHITE}droid 🐧\033[0m // github.com/MEMozki/LinDroid");exec("while True: os.system(input(f'\\033[1;32m{getpass.getuser()}@LinDroid:~\\033[0m{Fore.WHITE}$ '))")
